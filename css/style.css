@@ -13,7 +13,7 @@ body {
 header {
     background-color: #cacab1;
     width: 900px;
-    height: 100px;
+    height: 70px;
     text-align: center;
     margin-left: 20px;
 }
@@ -31,7 +31,7 @@ header ul  {
 header ul li {
     display: inline-block;
     color: black;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 header a {
@@ -62,15 +62,20 @@ a:hover {
     margin-left: 20px;
 
 }
+.campanha {
+    border: 10px solid #cacab1;
+    margin-bottom: 10px;
+}
 
 .texto {
     padding: 20px;
     font-size: 17px;
     font-weight: bold;
 }
-.texto  h2{
+
+.texto  h1{
     margin-bottom: 12px;
-    color: #c4c4c1;
+    color: #cacab1;
 }
 
 .contatos{
